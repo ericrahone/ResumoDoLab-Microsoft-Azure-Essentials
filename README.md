@@ -7,3 +7,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 5. O lab "Computação e rede" do desafio de projeto "Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure", foi voltado a uma explicação detalhada sobre a criação de uma máquina virtual e um overview sobre a criação de aplicativo de funções.
 6. O lab "Armazenamento" do desafio de projeto "Dominando o Armazenamento na Azure", foi voltado a uma explicação detalhada sobre a criação de uma conta de armazenamento, migrações para Azure, AzCopy e Microsoft Storage Explorer.  
 7. O lab "Identidade, Acesso e Segurança" do desafio de projeto "Entendendo sobre Segurança e Identidade na Azure", foi voltado a uma exploração sobre as funcionalidades do Microsoft Entra ID e Microsoft Defender for Cloud.
+8. O lab "Gerenciamento de custos" do desafio de projeto "Otimizando Custos no Azure", foi voltado a uma exploração sobre a calculadora de TCO e calculadora de preços Azure.
