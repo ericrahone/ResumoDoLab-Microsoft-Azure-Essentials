@@ -8,3 +8,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 6. O lab "Armazenamento" do desafio de projeto "Dominando o Armazenamento na Azure", foi voltado a uma explicação detalhada sobre a criação de uma conta de armazenamento, migrações para Azure, AzCopy e Microsoft Storage Explorer.  
 7. O lab "Identidade, Acesso e Segurança" do desafio de projeto "Entendendo sobre Segurança e Identidade na Azure", foi voltado a uma exploração sobre as funcionalidades do Microsoft Entra ID e Microsoft Defender for Cloud.
 8. O lab "Gerenciamento de custos" do desafio de projeto "Otimizando Custos no Azure", foi voltado a uma exploração sobre a calculadora de TCO e calculadora de preços Azure.
+9. O lab "Governança e Conformidade" do desafio de projeto "Gerenciando Politicas em Acessos Azure", foi voltado a uma exploração sobre o portão de confiança do serviço, bloqueio a nível de resource group, Microsoft Purview e criação de políticas.
+10. O lab "Ferramentas de Gerenciamento e Implantação" do desafio de projeto "Ferramentas de Implantação na Azure", foi voltado a exploração do Microsoft Arc, criação de recursos e PowerShell.
+11. O lab "Ferramentas de Monitoramento do Azure" do desafio de projeto "Monitoramento Inteligente com o Azure", foi voltado a exploração do Azure Monitor, Service Health e Advisor.
